@@ -1,0 +1,24 @@
+# Gradle files
+build/
+.gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Generated files
+*.iml
+*.idea/
+*.apk
+*.ap_
+
+# Android Studio files
+.idea/
+*.xml
+*.jks
+
+# Proguard files
+proguard/
+
+# Log files
+*.log
+
